@@ -1,0 +1,31 @@
+{
+  "not_nav": {
+    "routes": [
+      {
+        "samplePage": "samplePage"
+      },
+      {
+        "samplePage": "samplePage"
+      }
+    ]
+  },
+  "people": {
+    "friends": {},
+    "relative": {},
+    "schoolFriends":{},
+  },
+  "things": {
+    "houseHolds": {},
+    "garage": {},
+  },
+  "cloths": {},
+  "food": {},
+  "peopleHavingAccess": {
+    "hello",
+    "world",
+    "test",
+  },
+  "thingsToOverCome": {
+    "hello world",
+  }
+}
